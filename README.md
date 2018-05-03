@@ -1,6 +1,6 @@
 # bus-seat-task
 
-> The seat layout should be divided into 2-sections front-seat and other-seats. Each section has seats arranged in an row with an aisle separating every 2-seats on a row. There should be a clear distinction of the front-seats & other-seats sections and also a distinction for the booked-seats from the available seats.
+> The seat layout is divided into 2-sections front-seat and other-seats. Each section has seats arranged in an row with an aisle separating every 2-seats on a row. The   front-seats & other-seats are shown in different sections. The booked seats are have a purple color and non booked seats have white color.
 
 ## Build Setup
 
